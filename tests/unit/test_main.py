@@ -71,3 +71,5 @@ def testar_dividir_negativo():
 # TDD - Test Driven Development
 # Criar os testes de unidade no começo do desenvolvimento.
 # Executar todos os testes pelo menos uma vez por dia
+
+#teste
